@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Next Core Technologies Dashboard",
   description:
-    "Discover the wonders of Amhara region - from ancient rock-hewn churches of Lalibela to dramatic Simien Mountains. Experience Ethiopia's rich history and culture.",
+    "Next Core Technologies Dashboard",
 };
 
 export default function RootLayout({
